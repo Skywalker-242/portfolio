@@ -1,14 +1,13 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Microsoft Excel, Power BI
 
 ## Education		        		
 - B.S., Computer Science | The University of Ibadan (August 2019 - Present)
 
 ## Work Experience
-**Data Science Intern@ Training, Research and Development Institute,Ibadan(_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Science Intern@ Training, Research and Development Institute,Ibadan(_June 2023 - Present_)**
+I had the unique opportunity to contribute to a cutting-edge project focused on detecting fake reviews within online platforms. Throughout my internship, I was actively involved in every phase of the project, from data collection to model implementation. This role provided me with valuable hands-on experience in the field of data analysis, machine learning, and cybersecurity.
 
 ## Projects
 ### Exploratory Data Analysis Project: Exploring Airbnb Data Insights
