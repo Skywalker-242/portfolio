@@ -14,7 +14,7 @@ I had the unique opportunity to contribute to a cutting-edge project focused on 
 ### Explortory Data Analytics: Exploring Airbnb Data Insights
 I undertook an insightful data analysis project to gain a comprehensive understanding of New York City's Airbnb market in 2019. Leveraging Python's powerful data analysis libraries, including Pandas, Seaborn, and Matplotlib, I conducted thorough exploratory data analysis (EDA) to uncover patterns, trends, and meaningful insights from the dataset.
 
-![EEG Band Discovery](EDA.jpeg)
+![Exploring Airbnb Data Insights](EDA.jpeg)
 
 
 ## Certifications and Badges
