@@ -7,7 +7,8 @@
 
 ## Work Experience
 **Data Science Intern @ Training, Research and Development Institute,University of Ibadan (_June 2023 - Present_)**
--I had the unique opportunity to contribute to a cutting-edge project focused on detecting fake reviews within online platforms. Throughout my internship, I was actively involved in every phase of the project, from data collection to model implementation. This role provided me with valuable hands-on experience in the field of data analysis, machine learning, and cybersecurity.
+
+I had the unique opportunity to contribute to a cutting-edge project focused on detecting fake reviews within online platforms. Throughout my internship, I was actively involved in every phase of the project, from data collection to model implementation. This role provided me with valuable hands-on experience in the field of data analysis, machine learning, and cybersecurity.
 
 ## Projects
 ### Explortory Data Analytics: Exploring Airbnb Data Insights
@@ -17,10 +18,10 @@ I undertook an insightful data analysis project to gain a comprehensive understa
 
 
 ## Certifications and Badges
-- HackerRank Problem Solving(Basic) Certificate
+ HackerRank Problem Solving(Basic) Certificate
   
 ![Problem Solving(Basic) Certificate](problemsolving.png)
 
-- HackerRank Python(Basic) Certificate
-- 
-- ![Python(Basic) Certificate](python.png)
+ HackerRank Python(Basic) Certificate
+ 
+ ![Python(Basic) Certificate](python.png)
